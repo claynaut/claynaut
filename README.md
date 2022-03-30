@@ -2,7 +2,7 @@
 
 Full stack developer based in Southern California, with a great interest in software and web development, and always learning whether it's new and unfamiliar tech stacks, instruments like the guitar, or controls to a new video game.
 
-Currently a third-year undergraduate studying Computer Science at UCR.
+Currently a graduate studying Computer Science at UCR.
 
 ![forthebadge](./svg/fueled-by-matcha.svg)
 ![forthebadge](./svg/working-on-websites.svg)
