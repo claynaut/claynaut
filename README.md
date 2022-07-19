@@ -5,4 +5,4 @@ Software engineer based in Southern California, with a great interest in softwar
 Currently working at a FreightTech startup and pursuing an M.S. in Computer Science at UCR.
 
 ## Find Me Elsewhere
-[Portfolio](https://jspescas.io/) • [Alternate Portfolio](https://claynaut.io/) • [LinkedIn](https://www.linkedin.com/in/jspescasio/) • [hello@jspescas.io](mailto:hello@jspescas.io)
+[Portfolio](https://jspescas.io/) • [Alternate Portfolio](https://claynaut.dev/) • [LinkedIn](https://www.linkedin.com/in/jspescasio/) • [hello@jspescas.io](mailto:hello@jspescas.io)
